@@ -1,0 +1,14 @@
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\bin\Debug\netcoreapp3.1\lab_4ISIT.exe
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\bin\Debug\netcoreapp3.1\lab_4ISIT.deps.json
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\bin\Debug\netcoreapp3.1\lab_4ISIT.runtimeconfig.json
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\bin\Debug\netcoreapp3.1\lab_4ISIT.runtimeconfig.dev.json
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\bin\Debug\netcoreapp3.1\lab_4ISIT.dll
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\bin\Debug\netcoreapp3.1\lab_4ISIT.pdb
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\obj\Debug\netcoreapp3.1\lab_4ISIT.csproj.AssemblyReference.cache
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\obj\Debug\netcoreapp3.1\lab_4ISIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\obj\Debug\netcoreapp3.1\lab_4ISIT.AssemblyInfoInputs.cache
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\obj\Debug\netcoreapp3.1\lab_4ISIT.AssemblyInfo.cs
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\obj\Debug\netcoreapp3.1\lab_4ISIT.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\obj\Debug\netcoreapp3.1\lab_4ISIT.dll
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\obj\Debug\netcoreapp3.1\lab_4ISIT.pdb
+C:\Users\UserPC\source\repos\lab_4ISIT\lab_4ISIT\obj\Debug\netcoreapp3.1\lab_4ISIT.genruntimeconfig.cache

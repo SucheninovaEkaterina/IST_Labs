@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_4ISIT", "lab_4ISIT\lab_4ISIT.csproj", "{068AE437-1D53-43FD-8815-586E5BA2889B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068AE437-1D53-43FD-8815-586E5BA2889B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068AE437-1D53-43FD-8815-586E5BA2889B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068AE437-1D53-43FD-8815-586E5BA2889B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068AE437-1D53-43FD-8815-586E5BA2889B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78946965-5F3D-4E33-8CA6-29EE8ACC6340}
+	EndGlobalSection
+EndGlobal
